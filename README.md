@@ -18,6 +18,23 @@ Delve into our Menu section to discover an array of delectable treats that are b
 ### *Footer*
 ![Screenshot 2023-08-12 232610](https://github.com/shikhar66/Cake-Selling-Website/assets/104693342/44e1aeb8-3a86-4819-ae45-ec7e54408921)
 ---
+### Cake Gallery 
+For those seeking visual delight, our Cake Gallery showcases a captivating display of our cake creations. The gallery offers a virtual feast for the eyes, allowing visitors to appreciate the intricate craftsmanship that goes into each creation.
+### *Header*
+![Screenshot 2023-08-12 233839](https://github.com/shikhar66/Cake-Selling-Website/assets/104693342/8131dde7-9e18-43b3-9708-2f5e3e9de7bd)
+### *Cakes*
+![Screenshot 2023-08-12 233955](https://github.com/shikhar66/Cake-Selling-Website/assets/104693342/1281d8a2-2926-4207-ad5d-962a89e4a06e)
+---
+### About Section
+Curious minds can quench their curiosity by navigating to our About page. Here, we share the story behind our passion for baking, detailing the journey that led us to crafting these culinary wonders.
+![Screenshot 2023-08-12 234401](https://github.com/shikhar66/Cake-Selling-Website/assets/104693342/6448aeed-d53a-4bf3-ab92-15223e823983)
+---
+### Contact Section
+Ordering your favorite cakes and cookies is made effortless through our Contact page. A user-friendly form empowers visitors to place their orders for home delivery. Once the form is completed, the data is seamlessly transmitted to our seller's Gmail ID, ensuring efficient communication and prompt order processing.
+![Screenshot 2023-08-12 234629](https://github.com/shikhar66/Cake-Selling-Website/assets/104693342/c518dd94-1863-4b64-86a5-00a563805038)
+![Screenshot 2023-08-12 234651](https://github.com/shikhar66/Cake-Selling-Website/assets/104693342/156230ba-7b55-43f0-8c0c-453b24e4b7a5)
+
+
 
 
 
