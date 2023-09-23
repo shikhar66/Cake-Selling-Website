@@ -1,5 +1,6 @@
 # Cake-Selling-Website
 `Online cake selling website for local vendors who sell cake on social media platform.`
+# Deployed link - https://u2oan9nqwwlnzidnlpwsfg.on.drv.tw/www.cakebakery.com/
 ---
 Our website development project revolves around creating an engaging online platform dedicated to the sale of delectable cakes and cookies. With sections thoughtfully designed to enhance user experience, our website seamlessly blends aesthetics with functionality, catering to the cravings of confectionery enthusiasts.
 # Interface
